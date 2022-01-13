@@ -64,7 +64,7 @@ public class FileGenerator {
     public static File createBash(final String bash, final String filename) {
         exceptionNull(bash);
         exceptionNull(filename);
-        return create(bash, filename, "java");
+        return create(bash, filename, "sh");
     }
 
     @SneakyThrows
