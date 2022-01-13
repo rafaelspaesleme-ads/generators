@@ -26,7 +26,7 @@
                 </repository>
                 <repository>
                     <id>github</id>
-                    <url>https://github.com/rafaelspaesleme-ads/log-amigo.git</url>
+                    <url>https://github.com/rafaelspaesleme-ads/generators.git</url>
                     <snapshots>
                         <enabled>true</enabled>
                     </snapshots>
